@@ -1,0 +1,19 @@
+say '_____________________ >>>ODIN-BECKONS-YOU<<< ----------------------------' 032
+wait 650
+dclick 0x41144BCA
+wait 3000
+say '[Chivalry9'
+wait 650
+gumpresponse 4
+wait 4000
+say '***Odins Rejected Goods*** ***2.5k-Vendor-Spots***' 033
+wait 5000
+say '[O_R] Odins Rejects Guild-Vendor-House' 034
+wait 5000
+say '---Odins Rejected Goods--- ---2.5k-Vendor-Spots---' 035
+wait 5000
+say '[O_R] Odins Rejects Guild-Vendor-House' 036
+wait 5000
+say '|||||| Odins Rejected Goods |||||| ***2.5k-Vendor-Spots***' 037
+wait 4000
+loop

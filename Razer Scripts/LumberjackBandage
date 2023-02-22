@@ -1,0 +1,13 @@
+if hits < {maxhp}
+hotkey 'Bandage Self'
+for 9
+wait 1000
+dclicktype '3908'
+wait 250
+hotkey 'Target Self'
+endfor
+endif
+dclicktype '3908'
+wait 250
+hotkey 'Target Self'
+wait 1000
